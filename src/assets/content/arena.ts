@@ -6,7 +6,7 @@ export const areaContent: ArenaState[] = [
     attribute: "aura",
     deckA: "a-carlos",
     deckB: "b-pedro",
-    playerAName: "Player A",
+    playerAName: "Mariana",
     playerBName: "Rosda"
   },
   // apenas modifique a estrutura atual
