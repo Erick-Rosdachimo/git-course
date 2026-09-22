@@ -3,10 +3,10 @@ import type { ArenaState } from "_types/arena";
 
 export const areaContent: ArenaState[] = [
   {
-    attribute: "dificuldadeProva",
-    deckA: "a-carlos",
+    attribute: "aura",
+    deckA: "a-lucas",
     deckB: "b-pedro",
-    playerAName: "Mariana",
+    playerAName: "Maria",
     playerBName: "Rosda"
   },
   // apenas modifique a estrutura atual
